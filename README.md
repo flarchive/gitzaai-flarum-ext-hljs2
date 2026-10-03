@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of gitzaai/flarum-ext-hljs2.** Not for installation: use [Packagist](https://packagist.org/packages/gitzaai/flarum-ext-hljs2) or the [upstream repository](https://github.com/gitzaai/flarum-ext-hljs2).
 
-**0** versions archived · Latest: [`2.0`](https://github.com/flarchive/gitzaai-flarum-ext-hljs2/tree/archive/v2.0) · License: `MIT` · Flarum: `^1.0`
+**1** versions archived · Latest: [`2.0`](https://github.com/flarchive/gitzaai-flarum-ext-hljs2/tree/archive/v2.0) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `2.0` | 2022-08-28 | `^1.0` | [Browse](https://github.com/flarchive/gitzaai-flarum-ext-hljs2/tree/archive/v2.0) |
 
 Catalog entry: [packages/gitzaai-flarum-ext-hljs2.json](https://github.com/flarchive/archive-index/blob/main/packages/gitzaai-flarum-ext-hljs2.json)
 
